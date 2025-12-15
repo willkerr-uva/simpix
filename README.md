@@ -58,4 +58,5 @@ The program uses a Metropolis-Hastings algorithm:
 - **Steps**: 5,000,000
 
 ## Results
+To view converted images see simpix_files folder
 The algorithm successfully transforms the source image structure to match the target while strictly maintaining the source's color histogram.
