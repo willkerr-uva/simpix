@@ -61,3 +61,4 @@ The program uses a Metropolis-Hastings algorithm:
 
 ## Results
 The algorithm successfully transforms the source image structure to match the target while strictly maintaining the source's color histogram.
+See impressionist_collage.png and rotunda_collage.png in simpix_files for the results
