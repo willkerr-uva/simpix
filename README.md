@@ -56,7 +56,8 @@ The program uses a Metropolis-Hastings algorithm:
 ## Performance
 - **Image Size**: 640x480
 - **Steps**: 5,000,000
+- **Execution Time (Impressionist)**: 2.30s
+- **Execution Time (Rotunda)**: 2.33s
 
 ## Results
-To view converted images see simpix_files folder
 The algorithm successfully transforms the source image structure to match the target while strictly maintaining the source's color histogram.
